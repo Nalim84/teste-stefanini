@@ -1,0 +1,15 @@
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\XPTO.Extractor.dll
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\XPTO.Extractor.pdb
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\XPTO.Domain.dll
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\XPTO.Domain.pdb
+C:\Projetos\XPTO\XPTO.Extractor\obj\Debug\XPTO.Extractor.csprojAssemblyReference.cache
+C:\Projetos\XPTO\XPTO.Extractor\obj\Debug\XPTO.Extractor.csproj.CoreCompileInputs.cache
+C:\Projetos\XPTO\XPTO.Extractor\obj\Debug\XPTO.Extractor.csproj.CopyComplete
+C:\Projetos\XPTO\XPTO.Extractor\obj\Debug\XPTO.Extractor.dll
+C:\Projetos\XPTO\XPTO.Extractor\obj\Debug\XPTO.Extractor.pdb
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\XPTO.Extractor.dll.config
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\EntityFramework.dll
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\XPTO.Domain.dll.config
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\EntityFramework.xml
+C:\Projetos\XPTO\XPTO.Extractor\bin\Debug\EntityFramework.SqlServer.xml

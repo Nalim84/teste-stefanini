@@ -1,0 +1,26 @@
+﻿body {
+    line-height: 1.428571429;
+    background: #1f1f1f;
+    color: #333;
+    padding-top: 60px;
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+h1 {
+    color: #999
+}
+
+table {
+    background-color: #3d3d3d !important;
+}
+
+    table thead tr {
+        color: #fff
+    }
+
+
+
+    table tbody tr {
+        color: #999
+    }
